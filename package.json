@@ -1,7 +1,8 @@
 {
     "name": "react-vite",
     "version": "1.0.0",
-    "description": "",
+    "type": "module",
+    "description": "react-vite practice",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +16,9 @@
     "bugs": {
         "url": "https://github.com/Hei-Ha/react-vite/issues"
     },
-    "homepage": "https://github.com/Hei-Ha/react-vite#readme"
+    "homepage": "https://github.com/Hei-Ha/react-vite#readme",
+    "dependencies": {
+        "react": "^18.2.0",
+        "vite": "^3.1.6"
+    }
 }
